@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="539053f0-7477-4bc8-98b4-1ab40c9efb8d" name="Default Changelist" comment="Updated OrderModel.php. The customer can now place an order with skis that is not created">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/database_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SkiAPI 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api2.php" beforeDir="false" afterPath="$PROJECT_DIR$/api2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/OrderModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/OrderModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/dbCredentials.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/dbCredentials.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="DONT_SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="e62d9844-b043-448a-ab1f-f3bf030197ac" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1r9nPkvQn9dyV8B8lKL4gRpZbF8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/php-8.0.5-nts-Win32-vs16-x64/php.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/controller" />
+      <recent name="$PROJECT_DIR$/controller/Enpoints" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.main">
+    <configuration name="OrderModel.php::getOrdersByState" type="CodeceptionConfigurationType" factoryName="Codeception" temporary="true">
+      <PhpTestRunnerSettings file="$PROJECT_DIR$/db/OrderModel.php" method="getOrdersByState" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OrderModel.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/SkiAPI/db/OrderModel.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$" port="8443" router_script="$PROJECT_DIR$/api2.php" use_router_script="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="3306" router_script="$PROJECT_DIR$/api.php" use_router_script="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="api.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/api.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Codeception.OrderModel.php::getOrdersByState" />
+      <item itemvalue="JavaScript Debug.OrderModel.php" />
+      <item itemvalue="PHP Built-in Web Server.Unnamed" />
+      <item itemvalue="PHP Built-in Web Server.main" />
+      <item itemvalue="PHP Script.api.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.api.php" />
+        <item itemvalue="JavaScript Debug.OrderModel.php" />
+        <item itemvalue="Codeception.OrderModel.php::getOrdersByState" />
+        <item itemvalue="JavaScript Debug.OrderModel.php" />
+        <item itemvalue="Codeception.OrderModel.php::getOrdersByState" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="539053f0-7477-4bc8-98b4-1ab40c9efb8d" name="Default Changelist" comment="" />
+      <created>1618397151115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618397151115</updated>
+      <workItem from="1618397153315" duration="7444000" />
+      <workItem from="1618406083814" duration="1612000" />
+      <workItem from="1618561069596" duration="6581000" />
+      <workItem from="1618581702393" duration="1467000" />
+      <workItem from="1618597578458" duration="2748000" />
+      <workItem from="1618763009905" duration="3659000" />
+      <workItem from="1618815878605" duration="9557000" />
+      <workItem from="1618830494881" duration="1563000" />
+      <workItem from="1618847272586" duration="5850000" />
+      <workItem from="1618988378379" duration="2749000" />
+      <workItem from="1619094882118" duration="4373000" />
+      <workItem from="1619607718307" duration="2619000" />
+      <workItem from="1619766056197" duration="7381000" />
+      <workItem from="1619779055662" duration="484000" />
+      <workItem from="1619790138011" duration="404000" />
+      <workItem from="1620044893678" duration="7000" />
+      <workItem from="1620045034196" duration="629000" />
+      <workItem from="1620045789434" duration="2506000" />
+      <workItem from="1620049097302" duration="2099000" />
+      <workItem from="1620051255229" duration="354000" />
+      <workItem from="1620051655577" duration="293000" />
+      <workItem from="1620052249623" duration="4174000" />
+      <workItem from="1620070881945" duration="1879000" />
+      <workItem from="1620119992336" duration="719000" />
+    </task>
+    <task id="LOCAL−00001" summary="Added some functions in Shipment Model, Employee Model and Order Model">
+      <created>1618405909960</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1618405909960</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Fixed some errors">
+      <created>1618407514985</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1618407514985</updated>
+    </task>
+    <task id="LOCAL−00003" summary="modified createResource to take in an array">
+      <created>1618603040244</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1618603040244</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Added filter support, and created endpoint files">
+      <created>1618824779254</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1618824779254</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Added functions that will support some of the endpoints">
+      <created>1618854993686</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1618854993686</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Added Token, and added a state option in the url">
+      <created>1619264079713</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1619264079713</updated>
+    </task>
+    <task id="LOCAL−00007" summary="Added more endpoint support">
+      <created>1619424296290</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1619424296290</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Updated OrderModel.php. The customer can now place an order with skis that is not created">
+      <created>1619776729967</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1619776729967</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added some functions in Shipment Model, Employee Model and Order Model" />
+    <MESSAGE value="Fixed some errors" />
+    <MESSAGE value="modified createResource to take in an array" />
+    <MESSAGE value="Added filter support, and created endpoint files" />
+    <MESSAGE value="Added functions that will support some of the endpoints" />
+    <MESSAGE value="Added Token, and added a state option in the url" />
+    <MESSAGE value="Added more endpoint support" />
+    <MESSAGE value="Updated OrderModel.php. The customer can now place an order with skis that is not created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated OrderModel.php. The customer can now place an order with skis that is not created" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

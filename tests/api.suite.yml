@@ -1,0 +1,16 @@
+actor: ApiTester
+modules:
+  enabled:
+    - Asserts
+    - \Helper\Api
+    - REST:
+        url: http://localhost/api/v1
+        depends: PhpBrowser
+        part: Json
+    - Db:
+        dsn: 'mysql:host=localhost;dbname=skiapi'
+        user: 'root'
+        password: ''
+        dump: 'tests/_data/skiapi.sql'
+        populate: true # run populator before all tests
+        cleanup: true # run populator before each test
